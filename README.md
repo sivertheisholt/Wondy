@@ -1,2 +1,2 @@
 # Wondy
-This respository will be the HUB for my own eco system
+This respository will be the HUB for my own "ecosystem"
